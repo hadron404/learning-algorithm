@@ -1,0 +1,12 @@
+= https://leetcode.cn/problems/running-sum-of-1d-array/[1480. 一维数组的动态和]
+
+== 一、原值修改
+include::RunningSumOf1dArray.java[lines=19..26]
+
+== 二、Use `for` expression and return a new result array
+include::RunningSumOf1dArray.java[lines=9..17]
+
+== 三、Use Stream API
+include::RunningSumOf1dArray.java[lines=29..35]
+
+
