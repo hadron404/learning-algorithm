@@ -1,0 +1,3 @@
+== JUnit4 + Gradle - update broke all tests with error: no tests found for given includes
+
+https://linked2ev.github.io/devsub/2019/09/30/Intellij-junit4-gradle-issue/[Intellij-junit4-gradle-issue]
